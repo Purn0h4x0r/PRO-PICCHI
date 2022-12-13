@@ -147,7 +147,7 @@ logo ="""
 \033[1;97m--------------------------------------------------
 \033[1;93m Author       : Md Purno Shah 
 \033[1;91m Facebook : Md Purno Shah
-\033[1;94m WhatsApp : Black Mafia Team
+\033[1;94m WhatsApp : +8801756462587
 \033[1;91m Youtube     : https://youtube.com/@darkman.p
 \033[1;91m 👑(PICCHI-PRO-TOOL)👑
 
